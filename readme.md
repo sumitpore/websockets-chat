@@ -75,6 +75,9 @@ to access the Chat System.
 └── webpack.config.js
 ```
 
+## Screenshot
+![](screenshot.gif)
+
 ## ToDo
 - [x] Use ES6
 - [x] Follow AirBnB Coding Standards
