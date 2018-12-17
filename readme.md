@@ -81,4 +81,4 @@ to access the Chat System.
 - [x] Implement Basic Chat System
 - [x] Apply Single Responsibility Principle on Client Side Code
 - [ ] Apply SRP on Server Side Code
-- [ ] Beautiful Interface
+- [ ] Good User Interface
