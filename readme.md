@@ -80,5 +80,5 @@ to access the Chat System.
 - [x] Follow AirBnB Coding Standards
 - [x] Implement Basic Chat System
 - [x] Apply Single Responsibility Principle on Client Side Code
-- [] Apply SRP on Server Side Code
-- [] Beautiful Interface
+- [ ] Apply SRP on Server Side Code
+- [ ] Beautiful Interface
